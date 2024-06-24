@@ -1,5 +1,5 @@
 
-LiteraAlura é uma aplicação de console em Java que permite aos usuários buscar livros e autores, listá-los e verificar informações detalhadas a partir da API do Projeto Gutenberg.
+LiteraAlura é uma aplicação de console em Java que permite aos usuários buscar livros e autores, listá-los e verificar informações detalhadas a partir da API Gutendex.
 
 Funcionalidades
 Busca por Título: Busca livros pelo título usando a API do Projeto Gutenberg.
